@@ -41,6 +41,8 @@ Tips:
 ------------------------------------------------------------
 FILES OVERVIEW
 ------------------------------------------------------------
+> **Important:** Please use the **“View raw”** option on GitHub to open or download any of the files listed below.
+
 app.py               Main CLI program (run this)
 expenses.csv         Primary data file (auto-created) — header: date,amount,category,note
 expense_report.txt   Human-readable exported report
